@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="6" total="10" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-04-19T16:35:12 EET" name="Default suite" finished-at="2025-04-19T16:35:21 EET" duration-ms="8430">
+    <groups>
+    </groups>
+    <test started-at="2025-04-19T16:35:12 EET" name="Default test" finished-at="2025-04-19T16:35:21 EET" duration-ms="8430">
+      <class name="myTest">
+        <test-method is-config="true" signature="mySetup()[pri:0, instance:myTest@3e821657]" started-at="2025-04-19T16:35:12 EET" name="mySetup" finished-at="2025-04-19T16:35:13 EET" duration-ms="866" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mySetup -->
+        <test-method signature="login()[pri:1, instance:myTest@3e821657]" started-at="2025-04-19T16:35:13 EET" name="login" finished-at="2025-04-19T16:35:13 EET" duration-ms="368" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method signature="AddAllItems()[pri:2, instance:myTest@3e821657]" started-at="2025-04-19T16:35:13 EET" name="AddAllItems" finished-at="2025-04-19T16:35:16 EET" duration-ms="2507" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddAllItems -->
+        <test-method signature="RemoveAllItems()[pri:3, instance:myTest@3e821657]" started-at="2025-04-19T16:35:16 EET" name="RemoveAllItems" finished-at="2025-04-19T16:35:16 EET" duration-ms="502" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- RemoveAllItems -->
+        <test-method signature="Task2Part2()[pri:9, instance:myTest@3e821657]" started-at="2025-04-19T16:35:16 EET" name="Task2Part2" finished-at="2025-04-19T16:35:17 EET" duration-ms="276" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Task2Part2 -->
+        <test-method is-config="true" signature="myAfterTest()[pri:0, instance:myTest@3e821657]" started-at="2025-04-19T16:35:17 EET" name="myAfterTest" finished-at="2025-04-19T16:35:21 EET" duration-ms="3865" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- myAfterTest -->
+      </class> <!-- myTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
